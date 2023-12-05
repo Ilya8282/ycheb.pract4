@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Clash Royale </string>
+    <string name="textView5">Загрузка...</string>
+    <string name="button4">стандартные </string>
+    <string name="button9">заклинания</string>
+    <string name="button10">здания</string>
+    <string name="textView4">Clash Royale Guide - это подробный справочник по игре Clash Royale который представляет собой описание карт и принцип их действия из игры  </string>
+    <string name="textView6">Разработчик приложения: Морозов Илья</string>
+    <string name="textView">"Clash Royale" - это стратегическая мобильная игра, разработанная и выпущенная компанией Supercell. В игре игроки собирают колоду из различных персонажей средневекового фэнтезийного мира и сражаются против других игроков в режиме реального времени.
+</string>
+    <string name="textView7">Суть игры заключается в том, чтобы размещать своих персонажей на арене и защищать свою башню, а также атаковать и уничтожать башни противника. Персонажи имеют различные способности, тактические возможности и характеристики, и игроки должны использовать их умело, чтобы выигрывать матчи.</string>
+    <string name="textView11">Мини-П.Е.К.К.А</string>
+    <string name="textView10">Темный Принц</string>
+    <string name="textView12"> Пламенный дракон</string>
+    <string name="textView13">Рыцарь</string>
+    <string name="textView18">Всадник на кабане</string>
+    <string name="textView17"> Магический лучник</string>
+    <string name="textView16"> Воздушный шар</string>
+    <string name="textView3">Мегарыцарь</string>
+    <string name="textView15"> Принц</string>
+    <string name="textView14"> Вышибала</string>
+    <string name="textView8">"Clash Royale" сочетает в себе элементы стратегии, коллекционирования и командной игры, что делает ее увлекательной и захватывающей для широкой аудитории игроков.</string>
+</resources>

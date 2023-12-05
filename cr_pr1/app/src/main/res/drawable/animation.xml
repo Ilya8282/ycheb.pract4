@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+    <item android:drawable="@drawable/im_0" android:duration="80" android:fillAlpha = "0" />
+    <item android:drawable="@drawable/im_1" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_2" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_3" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_4" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_5" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_6" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_7" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_8" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_9" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_10" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_11" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_12" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_13" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_14" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_15" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_16" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_17" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_18" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_19" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_20" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_21" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_22" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_23" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_24" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_25" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_26" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_27" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_28" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_29" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_30" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_31" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_32" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_33" android:duration="80" android:fillAlpha = "0"/>
+    <item android:drawable="@drawable/im_34" android:duration="80" android:fillAlpha = "0"/>
+</animation-list>
+
+
+
+
+
